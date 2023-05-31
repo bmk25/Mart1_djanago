@@ -25,7 +25,7 @@ ________________________________________________________________________________
               --> Path for the stockproj folder should be displayed like this 
                   >stockproj/
                             >stockapp
-                            >stocproj
+                            >stockproj
                             >manage.py
 _________________________________________________________________________________________________________________________________________________________________________
 4.  open the Mysql Command line Client and create a database with the given syntax.
@@ -36,7 +36,7 @@ ________________________________________________________________________________
               --> Path for the setting.py                      
                   >stockproj                                             
                             >stockapp                       
-                            >stocproj/                      
+                            >stockproj/                      
                                        asgi.py                                                                 
                                        settings.py                                                              
                                        urls.py                                                                
